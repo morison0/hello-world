@@ -2575,3 +2575,163 @@ java.lang.IllegalArgumentException: Bug: pops and pushes are out of whack!
 	at org.springsource.ide.eclipse.commons.completions.externaltype.indexing.SimpleExternalTypeIndexer.addFrom(SimpleExternalTypeIndexer.java:73)
 	at org.springsource.ide.eclipse.commons.completions.externaltype.ExternalTypeIndexManager$1.run(ExternalTypeIndexManager.java:97)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.springsource.ide.eclipse.commons.frameworks.core 4 0 2017-08-31 23:11:44.954
+!MESSAGE Bug: pops and pushes are out of whack!
+!STACK 0
+java.lang.IllegalArgumentException: Bug: pops and pushes are out of whack!
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:63)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery$MyHandler.dispose(SpringBootTypeDiscovery.java:278)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery.parseFrom(SpringBootTypeDiscovery.java:363)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery.access$3(SpringBootTypeDiscovery.java:355)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery$1.exec(SpringBootTypeDiscovery.java:417)
+	at org.springsource.ide.eclipse.commons.frameworks.core.downloadmanager.DownloadManager.doWithDownload(DownloadManager.java:185)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery.createGraph(SpringBootTypeDiscovery.java:414)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery.getTypes(SpringBootTypeDiscovery.java:324)
+	at org.springsource.ide.eclipse.commons.completions.externaltype.indexing.SimpleExternalTypeIndexer.addFrom(SimpleExternalTypeIndexer.java:73)
+	at org.springsource.ide.eclipse.commons.completions.externaltype.ExternalTypeIndexManager$1.run(ExternalTypeIndexManager.java:97)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.springsource.ide.eclipse.commons.frameworks.core 4 0 2017-08-31 23:13:12.950
+!MESSAGE Bug: pops and pushes are out of whack!
+!STACK 0
+java.lang.IllegalArgumentException: Bug: pops and pushes are out of whack!
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:63)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery$MyHandler.dispose(SpringBootTypeDiscovery.java:278)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery.parseFrom(SpringBootTypeDiscovery.java:363)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery.access$3(SpringBootTypeDiscovery.java:355)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery$1.exec(SpringBootTypeDiscovery.java:417)
+	at org.springsource.ide.eclipse.commons.frameworks.core.downloadmanager.DownloadManager.doWithDownload(DownloadManager.java:185)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery.createGraph(SpringBootTypeDiscovery.java:414)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery.getTypes(SpringBootTypeDiscovery.java:324)
+	at org.springsource.ide.eclipse.commons.completions.externaltype.indexing.SimpleExternalTypeIndexer.addFrom(SimpleExternalTypeIndexer.java:73)
+	at org.springsource.ide.eclipse.commons.completions.externaltype.ExternalTypeIndexManager$1.run(ExternalTypeIndexManager.java:97)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.springsource.ide.eclipse.commons.frameworks.core 4 0 2017-08-31 23:14:37.178
+!MESSAGE Bug: pops and pushes are out of whack!
+!STACK 0
+java.lang.IllegalArgumentException: Bug: pops and pushes are out of whack!
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:63)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery$MyHandler.dispose(SpringBootTypeDiscovery.java:278)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery.parseFrom(SpringBootTypeDiscovery.java:363)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery.access$3(SpringBootTypeDiscovery.java:355)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery$1.exec(SpringBootTypeDiscovery.java:417)
+	at org.springsource.ide.eclipse.commons.frameworks.core.downloadmanager.DownloadManager.doWithDownload(DownloadManager.java:185)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery.createGraph(SpringBootTypeDiscovery.java:414)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery.getTypes(SpringBootTypeDiscovery.java:324)
+	at org.springsource.ide.eclipse.commons.completions.externaltype.indexing.SimpleExternalTypeIndexer.addFrom(SimpleExternalTypeIndexer.java:73)
+	at org.springsource.ide.eclipse.commons.completions.externaltype.ExternalTypeIndexManager$1.run(ExternalTypeIndexManager.java:97)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.springsource.ide.eclipse.commons.frameworks.core 4 0 2017-08-31 23:15:28.013
+!MESSAGE Bug: pops and pushes are out of whack!
+!STACK 0
+java.lang.IllegalArgumentException: Bug: pops and pushes are out of whack!
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:63)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery$MyHandler.dispose(SpringBootTypeDiscovery.java:278)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery.parseFrom(SpringBootTypeDiscovery.java:363)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery.access$3(SpringBootTypeDiscovery.java:355)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery$1.exec(SpringBootTypeDiscovery.java:417)
+	at org.springsource.ide.eclipse.commons.frameworks.core.downloadmanager.DownloadManager.doWithDownload(DownloadManager.java:185)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery.createGraph(SpringBootTypeDiscovery.java:414)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery.getTypes(SpringBootTypeDiscovery.java:324)
+	at org.springsource.ide.eclipse.commons.completions.externaltype.indexing.SimpleExternalTypeIndexer.addFrom(SimpleExternalTypeIndexer.java:73)
+	at org.springsource.ide.eclipse.commons.completions.externaltype.ExternalTypeIndexManager$1.run(ExternalTypeIndexManager.java:97)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.springsource.ide.eclipse.commons.frameworks.core 4 0 2017-08-31 23:16:34.230
+!MESSAGE Bug: pops and pushes are out of whack!
+!STACK 0
+java.lang.IllegalArgumentException: Bug: pops and pushes are out of whack!
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:63)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery$MyHandler.dispose(SpringBootTypeDiscovery.java:278)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery.parseFrom(SpringBootTypeDiscovery.java:363)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery.access$3(SpringBootTypeDiscovery.java:355)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery$1.exec(SpringBootTypeDiscovery.java:417)
+	at org.springsource.ide.eclipse.commons.frameworks.core.downloadmanager.DownloadManager.doWithDownload(DownloadManager.java:185)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery.createGraph(SpringBootTypeDiscovery.java:414)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery.getTypes(SpringBootTypeDiscovery.java:324)
+	at org.springsource.ide.eclipse.commons.completions.externaltype.indexing.SimpleExternalTypeIndexer.addFrom(SimpleExternalTypeIndexer.java:73)
+	at org.springsource.ide.eclipse.commons.completions.externaltype.ExternalTypeIndexManager$1.run(ExternalTypeIndexManager.java:97)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.springsource.ide.eclipse.commons.frameworks.core 4 0 2017-08-31 23:17:45.954
+!MESSAGE Bug: pops and pushes are out of whack!
+!STACK 0
+java.lang.IllegalArgumentException: Bug: pops and pushes are out of whack!
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:63)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery$MyHandler.dispose(SpringBootTypeDiscovery.java:278)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery.parseFrom(SpringBootTypeDiscovery.java:363)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery.access$3(SpringBootTypeDiscovery.java:355)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery$1.exec(SpringBootTypeDiscovery.java:417)
+	at org.springsource.ide.eclipse.commons.frameworks.core.downloadmanager.DownloadManager.doWithDownload(DownloadManager.java:185)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery.createGraph(SpringBootTypeDiscovery.java:414)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery.getTypes(SpringBootTypeDiscovery.java:324)
+	at org.springsource.ide.eclipse.commons.completions.externaltype.indexing.SimpleExternalTypeIndexer.addFrom(SimpleExternalTypeIndexer.java:73)
+	at org.springsource.ide.eclipse.commons.completions.externaltype.ExternalTypeIndexManager$1.run(ExternalTypeIndexManager.java:97)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.springsource.ide.eclipse.commons.frameworks.core 4 0 2017-08-31 23:18:34.700
+!MESSAGE Bug: pops and pushes are out of whack!
+!STACK 0
+java.lang.IllegalArgumentException: Bug: pops and pushes are out of whack!
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:63)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery$MyHandler.dispose(SpringBootTypeDiscovery.java:278)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery.parseFrom(SpringBootTypeDiscovery.java:363)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery.access$3(SpringBootTypeDiscovery.java:355)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery$1.exec(SpringBootTypeDiscovery.java:417)
+	at org.springsource.ide.eclipse.commons.frameworks.core.downloadmanager.DownloadManager.doWithDownload(DownloadManager.java:185)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery.createGraph(SpringBootTypeDiscovery.java:414)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery.getTypes(SpringBootTypeDiscovery.java:324)
+	at org.springsource.ide.eclipse.commons.completions.externaltype.indexing.SimpleExternalTypeIndexer.addFrom(SimpleExternalTypeIndexer.java:73)
+	at org.springsource.ide.eclipse.commons.completions.externaltype.ExternalTypeIndexManager$1.run(ExternalTypeIndexManager.java:97)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.springsource.ide.eclipse.commons.frameworks.core 4 0 2017-08-31 23:19:16.835
+!MESSAGE Bug: pops and pushes are out of whack!
+!STACK 0
+java.lang.IllegalArgumentException: Bug: pops and pushes are out of whack!
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:63)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery$MyHandler.dispose(SpringBootTypeDiscovery.java:278)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery.parseFrom(SpringBootTypeDiscovery.java:363)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery.access$3(SpringBootTypeDiscovery.java:355)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery$1.exec(SpringBootTypeDiscovery.java:417)
+	at org.springsource.ide.eclipse.commons.frameworks.core.downloadmanager.DownloadManager.doWithDownload(DownloadManager.java:185)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery.createGraph(SpringBootTypeDiscovery.java:414)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery.getTypes(SpringBootTypeDiscovery.java:324)
+	at org.springsource.ide.eclipse.commons.completions.externaltype.indexing.SimpleExternalTypeIndexer.addFrom(SimpleExternalTypeIndexer.java:73)
+	at org.springsource.ide.eclipse.commons.completions.externaltype.ExternalTypeIndexManager$1.run(ExternalTypeIndexManager.java:97)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.springsource.ide.eclipse.commons.frameworks.core 4 0 2017-08-31 23:19:52.901
+!MESSAGE Bug: pops and pushes are out of whack!
+!STACK 0
+java.lang.IllegalArgumentException: Bug: pops and pushes are out of whack!
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:63)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery$MyHandler.dispose(SpringBootTypeDiscovery.java:278)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery.parseFrom(SpringBootTypeDiscovery.java:363)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery.access$3(SpringBootTypeDiscovery.java:355)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery$1.exec(SpringBootTypeDiscovery.java:417)
+	at org.springsource.ide.eclipse.commons.frameworks.core.downloadmanager.DownloadManager.doWithDownload(DownloadManager.java:185)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery.createGraph(SpringBootTypeDiscovery.java:414)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery.getTypes(SpringBootTypeDiscovery.java:324)
+	at org.springsource.ide.eclipse.commons.completions.externaltype.indexing.SimpleExternalTypeIndexer.addFrom(SimpleExternalTypeIndexer.java:73)
+	at org.springsource.ide.eclipse.commons.completions.externaltype.ExternalTypeIndexManager$1.run(ExternalTypeIndexManager.java:97)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.springsource.ide.eclipse.commons.frameworks.core 4 0 2017-08-31 23:20:53.220
+!MESSAGE Bug: pops and pushes are out of whack!
+!STACK 0
+java.lang.IllegalArgumentException: Bug: pops and pushes are out of whack!
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:63)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery$MyHandler.dispose(SpringBootTypeDiscovery.java:278)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery.parseFrom(SpringBootTypeDiscovery.java:363)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery.access$3(SpringBootTypeDiscovery.java:355)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery$1.exec(SpringBootTypeDiscovery.java:417)
+	at org.springsource.ide.eclipse.commons.frameworks.core.downloadmanager.DownloadManager.doWithDownload(DownloadManager.java:185)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery.createGraph(SpringBootTypeDiscovery.java:414)
+	at org.springframework.ide.eclipse.boot.completions.SpringBootTypeDiscovery.getTypes(SpringBootTypeDiscovery.java:324)
+	at org.springsource.ide.eclipse.commons.completions.externaltype.indexing.SimpleExternalTypeIndexer.addFrom(SimpleExternalTypeIndexer.java:73)
+	at org.springsource.ide.eclipse.commons.completions.externaltype.ExternalTypeIndexManager$1.run(ExternalTypeIndexManager.java:97)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
